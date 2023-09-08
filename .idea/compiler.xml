@@ -8,7 +8,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ConfigServer" />
         <module name="HotelService" />
-        <module name="UserServices" />
         <module name="ServiceRegistry" />
         <module name="RatingService" />
         <module name="ApiGateway" />
